@@ -69,7 +69,7 @@ graph TD
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-danieljoyta@proton.me-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieljoyta@proton.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Joy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-joy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Joy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joy-daniel-9428b9348)
 
 </div>
 
